@@ -61,7 +61,7 @@
       "@value": "Bydgoszczanie"
     },
     "motivations": {
-      "@value": "The Facebook group \"Bydgoszczanie,\" founded by Paweł Sankowski, is a community for Bydgoszcz residents and enthusiasts. Its mission is to connect locals, share information, promote initiatives, and discuss topics relevant to the city.\nThe group fosters neighborly support, promotes local businesses and cultural events, and embraces diversity among its members. It’s also open to innovation, encouraging discussions about new technologies, including cryptocurrencies and blockchain. Members can share experiences, learn, and explore opportunities in the digital assets space.\n\nWith a focus on respect and community spirit, \"Bydgoszczanie\" has grown into an influential online platform, actively shaping the lives of its members. Join us to connect, share, and explore modern ideas, including the future of cryptocurrencies! 😊"
+      "@value": "The Facebook group \"Bydgoszczanie,\" founded by Paweł Sankowski, is a community for Bydgoszcz residents and enthusiasts. Its mission is to connect locals, share information, promote initiatives, and discuss topics relevant to the city.\n\nThe group fosters neighborly support, promotes local businesses and cultural events, and embraces diversity among its members. It’s also open to innovation, encouraging discussions about new technologies, including cryptocurrencies and blockchain. Members can share experiences, learn, and explore opportunities in the digital assets space.\n\nWith a focus on respect and community spirit, \"Bydgoszczanie\" has grown into an influential online platform, actively shaping the lives of its members. Join us to connect, share, and explore modern ideas, including the future of cryptocurrencies! 😊"
     },
     "objectives": {
       "@value": "As a Delegated Representative (DRep) in the \"Bydgoszczanie\" Facebook group, we aim to build a dynamic and innovation-driven community. We combine local engagement with modern technologies, believing in the power of collaboration, inclusivity, and openness to new ideas like cryptocurrencies and blockchain.\n\nOur objectives:\n\nEducation: Raising awareness about cryptocurrencies and blockchain technology, highlighting their benefits for residents and local businesses.\nDialogue: Creating a space for discussions about innovation, respecting diverse perspectives.\nDevelopment: Supporting local initiatives and businesses through modern technologies.\nAction: Turning discussions into real impact – workshops, collaborations, and practical applications.\nWe strive to make \"Bydgoszczanie\" a hub for knowledge and progress, combining local pride with innovation. Join us and help shape the future!"
@@ -88,16 +88,16 @@
           "@value": "Paweł Sankowski"
         },
         "uri": {
-          "@value": "https://www.linkedin.com/in/pawelsankowski"
+          "@value": "https://www.linkedin.com/in/pawelsankowski/"
         }
       },
       {
         "@type": "Identity",
         "label": {
-          "@value": "Paweł Sankowski"
+          "@value": "BYDGOSZCZANIE"
         },
         "uri": {
-          "@value": "https://x.com/Pawel_Sankowski"
+          "@value": "https://www.facebook.com/groups/bydgoszczanieoficjalnyprofil"
         }
       }
     ]
